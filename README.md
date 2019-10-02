@@ -70,6 +70,7 @@ A Comment in the database has the following structure:
 
 ### Endpoints
 
+new branch
 Configure the API to handle to the following routes:
 
 | Method | Endpoint                | Description                                                                                                                                                                 |
